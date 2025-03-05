@@ -1,4 +1,7 @@
 venv
 mlproject.egg-info
 logs
+artifacts
+installed.txt
+.Requirments.txt
 __pycache__
