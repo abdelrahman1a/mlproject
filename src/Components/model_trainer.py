@@ -116,8 +116,8 @@ class ModelTrainer:
             
             return r2_square
 
-        except:
-            pass
+        except Exception as e:
+            raise CustomException(e , sys)
 
 
 
