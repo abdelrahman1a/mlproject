@@ -4,4 +4,5 @@ logs
 artifacts
 installed.txt
 .Requirments.txt
+catboost_info/
 __pycache__
