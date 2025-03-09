@@ -2,6 +2,5 @@ venv
 mlproject.egg-info
 logs
 installed.txt
-.Requirments.txt
 catboost_info/
 __pycache__
