@@ -14,7 +14,6 @@ def index():
 @app.route('/predictdata', methods=['POST'])
 def predict_datapoint():
     try:
-        # Collect form data
         data = CustomData(
             gender=request.form.get('gender'),
             race_ethnicity=request.form.get('ethnicity'),
@@ -25,11 +24,9 @@ def predict_datapoint():
             writing_score=float(request.form.get('writing_score'))
         )
 
-        # Convert to DataFrame
         pred_df = data.get_data_as_DataFrame()
         print(pred_df)
 
-        # Predict using pipeline
         predict_pipeline = PredictPipeline()
         results = predict_pipeline.Predict(pred_df)
 
