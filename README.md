@@ -93,9 +93,3 @@ mlproject/
 │── README.md                  
 │── setup.py                  
 
-## 🏆 Results & Performance  
-✅ **Achieved 86% R² score** with CatBoost, ensuring accurate predictions.  
-✅ **Hyperparameter Tuning** significantly improved model efficiency and generalization.  
-✅ **Well-structured modular architecture** allows for easy scalability and maintenance.  
-✅ **Deployed on Railway**, enabling real-time student performance predictions.  
-
