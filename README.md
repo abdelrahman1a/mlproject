@@ -27,8 +27,8 @@ This project predicts **student performance** based on various **academic and so
 
 | Category       | Technologies Used |
 |---------------|-------------------|
-| **Core ML**    | Scikit-learn, CatBoost |
-| **Backend**    | Flask, Python 3.9+ |
+| **Core ML**    | Scikit-learn |
+| **Backend**    | Flask, Python |
 | **Frontend**   | HTML5, CSS3, JavaScript |
 | **Data Processing** | Pandas, NumPy |
 | **Data Visualization** | Matplotlib, Seaborn |
