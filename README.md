@@ -5,7 +5,7 @@ This project predicts **student performance** based on various **academic and so
 ---
 
 ## 🌟 Live Demo
-🚀**Try it here:** [Student Performance Predictor]([https://web-production-33b7.up.railway.app/](https://web-production-00f9c.up.railway.app/))
+🚀**Try it here:** [Student Performance Predictor]([https://web-production-33b7.up.railway.app/](https://web-production-00f9c.up.railway.app/)
 
 
 ---
